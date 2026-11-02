@@ -17,7 +17,9 @@
         "group": "2factor Docs",
         "pages": [
           "index",
-          "deployments"
+          "deployments",
+          "security-audits",
+          "integration-guides"
         ]
       }
     ],
