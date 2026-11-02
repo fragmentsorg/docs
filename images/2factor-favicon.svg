@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="4 4 92 92" aria-label="2factor logo">
+  <style>g{stroke:#000}@media (prefers-color-scheme:dark){g{stroke:#fff}}</style>
+  <g transform="rotate(270,50,50)" fill="none" stroke-width="8">
+    <polygon points="10,50 50,10 90,50 50,90"/>
+    <line x1="50" y1="50" x2="50" y2="90"/>
+    <line x1="10" y1="50" x2="90" y2="50"/>
+  </g>
+</svg>
