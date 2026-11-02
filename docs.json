@@ -16,7 +16,8 @@
       {
         "group": "2factor Docs",
         "pages": [
-          "index"
+          "index",
+          "deployments"
         ]
       }
     ],
