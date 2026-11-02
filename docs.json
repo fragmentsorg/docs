@@ -41,13 +41,13 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:dev-support@fragments.org"
+        "href": "https://chat.2factor.finance/"
       }
     ],
     "primary": {
       "type": "button",
       "label": "Dashboard",
-      "href": "https://app.mintlify.com"
+      "href": "https://https://app.2factor.finance/dash"
     }
   },
   "contextual": {
